@@ -222,7 +222,7 @@ if __name__ == "__main__":
 
 ## Output:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/80a55274-77c6-4d2c-a4fa-aaec612499d3)
 
 ## Result: 
 
